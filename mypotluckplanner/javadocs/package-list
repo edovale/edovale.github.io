@@ -1,0 +1,12 @@
+com.dropwizard.mongodb
+com.mypotluckplanner
+com.mypotluckplanner.email
+com.mypotluckplanner.email.impl
+com.mypotluckplanner.mongodb
+com.mypotluckplanner.participant
+com.mypotluckplanner.participant.impl
+com.mypotluckplanner.potluck
+com.mypotluckplanner.potluck.impl
+com.mypotluckplanner.registration
+com.mypotluckplanner.user
+com.mypotluckplanner.user.imp
